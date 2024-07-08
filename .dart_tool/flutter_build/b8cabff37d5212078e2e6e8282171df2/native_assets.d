@@ -1,0 +1,1 @@
+ /home/user/Documents/projects/git_drawer/drawer/.dart_tool/flutter_build/b8cabff37d5212078e2e6e8282171df2/native_assets.yaml: 

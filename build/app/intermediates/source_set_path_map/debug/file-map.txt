@@ -1,0 +1,54 @@
+com.gradding.ielts.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-0 /home/user/.gradle/caches/transforms-3/0d71402e87d63dfcdd1e8a19179a5833/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.gradding.ielts.app-fragment-1.5.7-1 /home/user/.gradle/caches/transforms-3/1122fdc6294010f07f5f6320c12e087e/transformed/fragment-1.5.7/res
+com.gradding.ielts.app-jetified-play-services-basement-18.3.0-2 /home/user/.gradle/caches/transforms-3/17fa2f85f92887a239732fa789549c4f/transformed/jetified-play-services-basement-18.3.0/res
+com.gradding.ielts.app-jetified-checkout-1.6.39-3 /home/user/.gradle/caches/transforms-3/1c0c3adc51d3b866d25144c10ff9341f/transformed/jetified-checkout-1.6.39/res
+com.gradding.ielts.app-jetified-core-ktx-1.12.0-4 /home/user/.gradle/caches/transforms-3/1e00891d0dadee5dc1736b9a9b82aa23/transformed/jetified-core-ktx-1.12.0/res
+com.gradding.ielts.app-jetified-window-1.0.0-beta04-5 /home/user/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.gradding.ielts.app-jetified-play-services-maps-17.0.0-6 /home/user/.gradle/caches/transforms-3/2c1cf447cdc743f3a0b29768897b67c0/transformed/jetified-play-services-maps-17.0.0/res
+com.gradding.ielts.app-jetified-android-pdf-viewer-3.2.0-beta.3-7 /home/user/.gradle/caches/transforms-3/30ab00d35f5402ee6803eab22370cf54/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/res
+com.gradding.ielts.app-jetified-lifecycle-process-2.6.1-8 /home/user/.gradle/caches/transforms-3/34e3313412f6bb2343705c93422b49a8/transformed/jetified-lifecycle-process-2.6.1/res
+com.gradding.ielts.app-jetified-play-services-auth-21.1.0-9 /home/user/.gradle/caches/transforms-3/3b07b6367ecc6e97308fa6344a1073bf/transformed/jetified-play-services-auth-21.1.0/res
+com.gradding.ielts.app-jetified-ucrop-2.2.8-10 /home/user/.gradle/caches/transforms-3/504f4fc810ee788bc10969b55b446e05/transformed/jetified-ucrop-2.2.8/res
+com.gradding.ielts.app-jetified-appcompat-resources-1.6.1-11 /home/user/.gradle/caches/transforms-3/55603e134e0bb25bb959e5e274e1834b/transformed/jetified-appcompat-resources-1.6.1/res
+com.gradding.ielts.app-jetified-play-services-base-18.3.0-12 /home/user/.gradle/caches/transforms-3/5c769a0becf12d2d14f33ce52146737d/transformed/jetified-play-services-base-18.3.0/res
+com.gradding.ielts.app-appcompat-1.6.1-13 /home/user/.gradle/caches/transforms-3/5e1ab9db4bfbf3ac403646091b989b87/transformed/appcompat-1.6.1/res
+com.gradding.ielts.app-jetified-profileinstaller-1.3.0-14 /home/user/.gradle/caches/transforms-3/635b1770925726da461e843c0a3c6641/transformed/jetified-profileinstaller-1.3.0/res
+com.gradding.ielts.app-transition-1.4.1-15 /home/user/.gradle/caches/transforms-3/73c701e06ee654af9514ad8486448e77/transformed/transition-1.4.1/res
+com.gradding.ielts.app-jetified-savedstate-1.2.1-16 /home/user/.gradle/caches/transforms-3/8d45f58db1b5efd11956cf5f8829d6d3/transformed/jetified-savedstate-1.2.1/res
+com.gradding.ielts.app-jetified-annotation-experimental-1.3.0-17 /home/user/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/res
+com.gradding.ielts.app-core-1.12.0-18 /home/user/.gradle/caches/transforms-3/a027ceacc87e80e18f779d4fcf90e6bf/transformed/core-1.12.0/res
+com.gradding.ielts.app-swiperefreshlayout-1.1.0-19 /home/user/.gradle/caches/transforms-3/a4b5e0ee32a0dbf5be2a3b5243b6a7af/transformed/swiperefreshlayout-1.1.0/res
+com.gradding.ielts.app-jetified-activity-1.7.2-20 /home/user/.gradle/caches/transforms-3/a82db410cebe27c9879106e746eca4ec/transformed/jetified-activity-1.7.2/res
+com.gradding.ielts.app-jetified-window-java-1.0.0-beta04-21 /home/user/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.gradding.ielts.app-browser-1.5.0-22 /home/user/.gradle/caches/transforms-3/d12883dde0390e08dd2a1192741cec1b/transformed/browser-1.5.0/res
+com.gradding.ielts.app-jetified-startup-runtime-1.1.1-23 /home/user/.gradle/caches/transforms-3/d2a7f03e118140f639e8945afb58cddb/transformed/jetified-startup-runtime-1.1.1/res
+com.gradding.ielts.app-lifecycle-viewmodel-2.6.1-24 /home/user/.gradle/caches/transforms-3/d5cb841d085c8da3ed38e468f997390f/transformed/lifecycle-viewmodel-2.6.1/res
+com.gradding.ielts.app-webkit-1.5.0-25 /home/user/.gradle/caches/transforms-3/d6b63b7e37fd26410cf082b353157626/transformed/webkit-1.5.0/res
+com.gradding.ielts.app-jetified-play-services-wallet-18.1.3-26 /home/user/.gradle/caches/transforms-3/db35fab0c48f32b2eedc860e8daaf4fd/transformed/jetified-play-services-wallet-18.1.3/res
+com.gradding.ielts.app-core-runtime-2.2.0-27 /home/user/.gradle/caches/transforms-3/db3ce0e4102f75753fdc0e9c2753a822/transformed/core-runtime-2.2.0/res
+com.gradding.ielts.app-jetified-emoji2-1.2.0-28 /home/user/.gradle/caches/transforms-3/e04bc3769bedd8dd6f8ca688986b0355/transformed/jetified-emoji2-1.2.0/res
+com.gradding.ielts.app-lifecycle-runtime-2.6.1-29 /home/user/.gradle/caches/transforms-3/e97fce397db1acf9b6f475dedfc7d654/transformed/lifecycle-runtime-2.6.1/res
+com.gradding.ielts.app-lifecycle-livedata-core-2.6.1-30 /home/user/.gradle/caches/transforms-3/eed11806d4af25229ebcb855da7e9479/transformed/lifecycle-livedata-core-2.6.1/res
+com.gradding.ielts.app-jetified-emoji2-views-helper-1.2.0-31 /home/user/.gradle/caches/transforms-3/f9a8fa7e10b7dfd0852911823d607994/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.gradding.ielts.app-debug-32 /home/user/Documents/projects/Flutter Projects/drawer/android/app/src/debug/res
+com.gradding.ielts.app-main-33 /home/user/Documents/projects/Flutter Projects/drawer/android/app/src/main/res
+com.gradding.ielts.app-pngs-34 /home/user/Documents/projects/Flutter Projects/drawer/build/app/generated/res/pngs/debug
+com.gradding.ielts.app-resValues-35 /home/user/Documents/projects/Flutter Projects/drawer/build/app/generated/res/resValues/debug
+com.gradding.ielts.app-rs-36 /home/user/Documents/projects/Flutter Projects/drawer/build/app/generated/res/rs/debug
+com.gradding.ielts.app-mergeDebugResources-37 /home/user/Documents/projects/Flutter Projects/drawer/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.gradding.ielts.app-mergeDebugResources-38 /home/user/Documents/projects/Flutter Projects/drawer/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.gradding.ielts.app-merged_res-39 /home/user/Documents/projects/Flutter Projects/drawer/build/app/intermediates/merged_res/debug
+com.gradding.ielts.app-packaged_res-40 /home/user/Documents/projects/Flutter Projects/drawer/build/audioplayers_android/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-41 /home/user/Documents/projects/Flutter Projects/drawer/build/flutter_inappwebview/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-42 /home/user/Documents/projects/Flutter Projects/drawer/build/flutter_pdfview/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-43 /home/user/Documents/projects/Flutter Projects/drawer/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-44 /home/user/Documents/projects/Flutter Projects/drawer/build/fluttertoast/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-45 /home/user/Documents/projects/Flutter Projects/drawer/build/image_cropper/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-46 /home/user/Documents/projects/Flutter Projects/drawer/build/image_picker_android/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-47 /home/user/Documents/projects/Flutter Projects/drawer/build/open_filex/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-48 /home/user/Documents/projects/Flutter Projects/drawer/build/package_info_plus/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-49 /home/user/Documents/projects/Flutter Projects/drawer/build/path_provider_android/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-50 /home/user/Documents/projects/Flutter Projects/drawer/build/razorpay_flutter/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-51 /home/user/Documents/projects/Flutter Projects/drawer/build/smart_auth/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-52 /home/user/Documents/projects/Flutter Projects/drawer/build/sqflite/intermediates/packaged_res/debug
+com.gradding.ielts.app-packaged_res-53 /home/user/Documents/projects/Flutter Projects/drawer/build/url_launcher_android/intermediates/packaged_res/debug
