@@ -38,8 +38,10 @@ jobs:
         with:
           artifacts: "build/app/outputs/apk/release/*,build/ios/iphoneos/app.ipa"
           tag: v1.0.${{ github.run_number }}
-          token: ${{ secrets.TOKEN }}
+          token: "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"
 
+
+#  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
 
 
 
