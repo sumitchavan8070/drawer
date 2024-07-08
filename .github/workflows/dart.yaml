@@ -42,13 +42,7 @@ jobs:
 
 
 
-  echo "# drawer" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/sumitchavan8070/drawer.git
-  git push -u origin main
+
 
 
 
